@@ -22,13 +22,12 @@
 
 ## 📝 Table of Contents
 
-Root of Equation
-Linear Algebra
-Coming soon ...
-Interpolation
-Regression
-Integration
-Differentiation
+<a>Root of Equation<a>
+<a>Linear Algebra<a>
+<a>Interpolation<a>
+<a>Regression<a>
+<a>Integration<a>
+<a>Differentiation<a>
 
 ## 🧐 About <a name = "about"></a>
 

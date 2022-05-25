@@ -22,15 +22,13 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+Root of Equation
+Linear Algebra
+Coming soon ...
+Interpolation
+Regression
+Integration
+Differentiation
 
 ## 🧐 About <a name = "about"></a>
 
